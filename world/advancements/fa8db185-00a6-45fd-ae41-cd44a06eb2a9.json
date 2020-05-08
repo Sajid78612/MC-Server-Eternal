@@ -276,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-05-03 14:31:57 +0100"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_string": "2020-04-18 12:12:32 +0100"
@@ -419,6 +425,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-18 11:55:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-05-03 14:31:57 +0100"
     },
     "done": true
   },
@@ -860,6 +872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-05-03 14:31:57 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/flesh_block": {
     "criteria": {
       "has_item": "2020-04-19 12:07:21 +0100"
@@ -1145,6 +1163,12 @@
     },
     "done": true
   },
+  "chancecubes:chance_icosahedron": {
+    "criteria": {
+      "placed_icosahedron": "2020-05-03 14:20:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-04-18 12:46:10 +0100"
@@ -1386,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-05-03 14:02:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2020-04-20 20:22:35 +0100"
@@ -1485,6 +1515,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-04-18 16:11:49 +0100"
+    },
+    "done": true
+  },
+  "techreborn:tree_tap": {
+    "criteria": {
+      "treetap_in_inventory": "2020-05-03 14:33:15 +0100"
     },
     "done": true
   },
@@ -2245,6 +2281,12 @@
     },
     "done": true
   },
+  "techreborn:sap": {
+    "criteria": {
+      "treetap_in_inventory": "2020-05-03 14:33:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-04-18 13:04:52 +0100"
@@ -2382,6 +2424,12 @@
   "appliedenergistics2:main/crafting_terminal": {
     "criteria": {
       "certus": "2020-04-22 18:42:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2020-05-03 14:02:18 +0100"
     },
     "done": true
   },

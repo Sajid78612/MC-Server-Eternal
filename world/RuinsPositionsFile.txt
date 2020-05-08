@@ -40,8 +40,8 @@
 -437 67 -70 -430 71 -63 TinyFarmField.tml
 -433 64 387 -423 69 397 RuinedSmallFountainDiagonal.tml
 -420 64 547 -405 72 556 Archway.tml
--378 87 225 -369 95 240 Archway.tml
 -378 61 21 -368 66 31 RuinedSmallFountainDiagonal.tml
+-378 87 225 -369 95 240 Archway.tml
 -368 62 153 -363 65 160 Melonfield.tml
 -320 67 354 -316 73 357 StonePillar.tml
 -319 62 500 -309 71 512 StoneHouseMruined.tml
@@ -74,8 +74,8 @@
 1003 62 566 1006 66 568 SkeletonHeadStatue.tml
 1045 61 488 1050 67 493 CaveSpiderBurrow.tml
 1050 103 712 1063 135 725 OreSpire.tml
-1083 63 586 1087 65 590 EmeraldOreOutcrop.tml
 1083 39 1168 1119 55 1179 SunkenShip-v3.tml
+1083 63 586 1087 65 590 EmeraldOreOutcrop.tml
 1084 106 842 1086 110 845 SkeletonHeadStatue.tml
 1143 42 977 1169 59 985 shipwreck.tml
 1156 43 874 1192 59 885 SunkenShip-v3.tml
